@@ -1,7 +1,7 @@
 # Rigol_DS1052E-firmware
 firmware and 100MHz mod for a Rigol scope
 
-NO SERIAL NUMBER CHANGING! Just put USB drive into the scope! 
+NO (RISKY) SERIAL NUMBER CHANGING! Just put USB drive into the scope! 
 
 Checked on my scope. Worked. 
 
