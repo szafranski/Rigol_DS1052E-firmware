@@ -5,6 +5,9 @@ NO SERIAL NUMBER CHANGING! Just put USB drive into the scope!
 
 Checked on my scope. Worked. 
 
+I firstly updated some old firmware to the newest one - non moded
+and than flashed firmware once again with that firmware but moded. 
+
 DO IT AT YOU OWN RISK - it is minimal but still
 
 This repository is more like a "helping hand".
