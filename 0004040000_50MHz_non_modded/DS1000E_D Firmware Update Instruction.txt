@@ -1,0 +1,4 @@
+1.Copy .RGL file to the root of USB flash 
+2.Power on DS1000E/D/U, insert USB into DS1000E/D/U, there will be a note that find a new firmware whether to update. Press update button 
+3. After finish update ,reboot and check the version 
+Note: Do not power off the instrument or move the USB flash during the updating.
