@@ -15,8 +15,11 @@ This repository is more like a "helping hand".
 
 Process is (was) very well described here:
 https://web.archive.org/web/20231001061514/http://www.g4ztd.info/rigol-ds1052e-oscilloscope-hack/
-(link seems obsolete so you can take a look at screenshots in the repo
-or go through this link: https://web.archive.org/web/20230331070806/http://www.g4ztd.info/rigol-ds1052e-oscilloscope-hack/ )
+
+(In case of broken link ir something, you can take a look at screenshots in the repo).
+
+Oryginal (now obsolete) link: http://www.g4ztd.info/rigol-ds1052e-oscilloscope-hack/
+
 
 There is also a PDF in the repo.
 
