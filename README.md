@@ -1,7 +1,7 @@
 # Rigol_DS1052E-firmware
 Firmware and 100MHz mod for a Rigol scope.
 
-NO (RISKY) SERIAL NUMBER CHANGING! Just put USB drive into the scope! 
+NO (RISKY) SERIAL NUMBER CHANGING! Just put USB drive into the scope
 
 Checked on my scope. Worked. 
 
@@ -18,13 +18,11 @@ https://web.archive.org/web/20231001061514/http://www.g4ztd.info/rigol-ds1052e-o
 
 (In case of broken link ir something, you can take a look at screenshots in the repo).
 
-Oryginal (now obsolete) link: http://www.g4ztd.info/rigol-ds1052e-oscilloscope-hack/
+Original (now obsolete) link: http://www.g4ztd.info/rigol-ds1052e-oscilloscope-hack/
 
 
 There is also a PDF in the repo.
 
-
-Write me if needed. 
 
 Discussion on EEVblog forum:
 
